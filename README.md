@@ -1,6 +1,8 @@
 # Res2Fusion: Infrared and visible image fusion based on dense Res2net and double nonlocal attention models
 Zhishe Wang, Yuanyuan Wu, Junyao Wang, Jiawei Xu, Wenyu Shao
 
+[paper](https://ieeexplore.ieee.org/document/9670874)  
+
 ## Platform
 Python 3.7  
 Pytorch >=1.6.0  
